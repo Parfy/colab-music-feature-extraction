@@ -17,7 +17,7 @@ The second issue I wanted to solve for was that doing realtime analysis of the t
 
 ## Getting Started
 
-Start with the colab file. I connected to a hosted runtime which makes setting up your environment easier, but adds a couple of steps to move local files up onto the hosted machine and get the output back off again - these steps are already included.
+Start with the Jupyter Notebook. I connected to a hosted runtime which makes setting up your environment easier, but adds a couple of steps to move local files up onto the hosted machine and get the output back off again - these steps are already included.
 
 Choose a music track that you have the .mp3 or .wav file for. I used pop/dance tracks - you'll want to try a track that has a decent bpm and vocals because my analysis focussed on these aspects. 
 
