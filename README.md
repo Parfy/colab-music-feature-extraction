@@ -45,7 +45,7 @@ You could try:
 * Changing the parameters of the wave
 * Changing the colours 
 * Changing how the music feature data is used in the viz
-* Swapping in your own visualation
+* Swapping in your own visualisation
 * Extending the analysis to get more features
 
 ## Acknowledgments
