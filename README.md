@@ -7,7 +7,7 @@ The project analyses a music track to extract features such as beats and pitch. 
 ## Built With
 
 * [Python in Colab](https://colab.research.google.com/)
-* [Essentia](https://essentia.upf.edu/) - Python library for music feature analysis
+* [Essentia](https://github.com/MTG/essentia/) - C++ library for music feature analysis
 * [p5js](https://p5js.org/) - Live visualisation in the html5 canvas
 
 ## Motivation
