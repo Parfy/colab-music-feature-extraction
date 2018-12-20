@@ -12,7 +12,7 @@ The project analyses a music track to extract features such as beats and pitch. 
 
 ## Motivation
 
-I've seen many examples of music visualisation that use only the frequency information and draw a version of an equaliser. I wanted to look into ways to extract more information from the track with a view to visualising something that more closely represents how we perceive the sounds. 
+I've seen many examples of music visualisation that use only the frequency information and draw a version of an equaliser or waveform. I wanted to look into ways to extract more information from the track with a view to visualising something that more closely represents how we perceive the sounds. 
 The second issue I wanted to solve for was that doing realtime analysis of the track as it plays seems to work well for some low-level features but doesn't offer much in the way of high-level feature extraction, so I looked into offiline analysis techniques. 
 
 ## Getting Started
