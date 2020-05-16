@@ -2,7 +2,7 @@
 
 The project analyses a music track to extract features such as beats and pitch. The output from the analysis is then visualised live while the track plays. 
 
-## [Visualisation Live Demo](https://parfy.github.io/Live%20Demos/Audio%20Wave%20Viz/index.html)
+## [Visualisation Live Demo](https://parfy.github.io/Demos/Audio%20Wave%20Viz/index.html)
 
 ## Built With
 
