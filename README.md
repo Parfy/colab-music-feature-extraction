@@ -2,7 +2,9 @@
 
 The project analyses a music track to extract features such as beats and pitch. The output from the analysis is then visualised live while the track plays. 
 
-## [Visualisation Live Demo](https://parfy.github.io/demos/audio_viz/)
+### [Github Project](https://github.com/Parfy/colab-music-feature-extraction)
+
+### [Live Demo](https://parfy.github.io/demos/audio_viz/)
 
 ## Built With
 
